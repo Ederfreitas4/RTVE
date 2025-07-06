@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://rtve.es/logo_la1.png" group-title="Espanha",La 1
+https://rtvelivestream.akamaized.net/la1.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://rtve.es/logo_la2.png" group-title="Espanha",La 2
+https://rtvelivestream.akamaized.net/la2.m3u8
+
+#EXTINF:-1 tvg-id="Canal24h.es" tvg-name="Canal 24h" tvg-logo="https://rtve.es/logo_24h.png" group-title="Espanha",Canal 24h
+https://rtvelivestream.akamaized.net/24h.m3u8
+
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" tvg-logo="https://rtve.es/logo_clan.png" group-title="Espanha",Clan
+https://rtvelivestream.akamaized.net/clan.m3u8
+
+#EXTINF:-1 tvg-id="Tdp.es" tvg-name="Teledeporte" tvg-logo="https://rtve.es/logo_tdp.png" group-title="Espanha",Teledeporte
+https://rtvelivestream.akamaized.net/tdp.m3u8
+
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Telecinco_logo_2020.svg" group-title="Espanha",La 5 (Telecinco)
+https://example.com/telecinco.m3u8
+
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/LaSexta_logo_2017.svg" group-title="Espanha",La Sexta
+https://example.com/lasexta.m3u8

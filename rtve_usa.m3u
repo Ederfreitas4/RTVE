@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rtve.la1" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_RTVE_2014.svg" group-title="RTVE",La 1
+http://rtve-live-lh.akamaihd.net/i/la1_1@119100/master.m3u8
+#EXTINF:-1 tvg-id="rtve.la2" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_RTVE_2014.svg" group-title="RTVE",La 2
+http://rtve-live-lh.akamaihd.net/i/la2_1@119200/master.m3u8
+#EXTINF:-1 tvg-id="rtve.24h" tvg-name="24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_RTVE_2014.svg" group-title="RTVE",24h
+http://rtve-live-lh.akamaihd.net/i/24h_1@119300/master.m3u8
+#EXTINF:-1 tvg-id="rtve.clan" tvg-name="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_RTVE_2014.svg" group-title="RTVE",Clan
+http://rtve-live-lh.akamaihd.net/i/clan_1@119400/master.m3u8
+#EXTINF:-1 tvg-id="rtve.teledeporte" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_RTVE_2014.svg" group-title="RTVE",Teledeporte
+http://rtve-live-lh.akamaihd.net/i/teledeporte_1@119500/master.m3u8
+#EXTINF:-1 tvg-id="rtve.internacional" tvg-name="RTVE Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_RTVE_2014.svg" group-title="RTVE",RTVE Internacional
+http://rtve-live-lh.akamaihd.net/i/internacional_1@119600/master.m3u8
